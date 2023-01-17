@@ -21,10 +21,10 @@
 }
 
 .header__favorite-btn {
-    color: #fff;
+    color: white;
     transition: color 0.2s ease-in-out;
 }
 
-.header__favorite-btn::hover {
+.header__favorite-btn:hover {
     color: tomato;
 }

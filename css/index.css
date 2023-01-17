@@ -1,5 +1,8 @@
-@import url('normalize.css');
-@import url('fonst.css');
-@import url('default.css');
-@import url('header.css');
-@import url('search.css');
+@import 'normalize.css';
+@import 'fonst.css';
+@import 'default.css';
+@import 'header.css';
+@import 'search.css';
+@import 'catalog.css';
+@import 'track.css';
+@import 'track-info.css';

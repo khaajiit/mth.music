@@ -1,6 +1,6 @@
 .search {
     position: relative;
-    min-width: 692px;
+    max-width: 692px;
     height: 36px;
 }
 
